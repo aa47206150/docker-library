@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/redis:v1
+FROM shenshouer/addon-resizer:1.6
