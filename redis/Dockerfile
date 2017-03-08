@@ -1,1 +1,1 @@
-FROM shenshouer/addon-resizer:1.6
+FROM apacheignite/ignite
